@@ -6,3 +6,14 @@ Fraud detection scenario: credit card processors alert a finance team to possibl
 SELECT *
 FROM transaction_data
 LIMIT 10;
+
+/* The column names are: 
+id
+full_name
+email
+zip
+ip_address 
+*/
+
+/* Looking up the full record of a flagged user */
+
