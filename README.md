@@ -50,6 +50,8 @@ WHERE full_name LIKE 'John%'
   AND ip_address LIKE '120.%';
   
 
+-- Note that inner joins 
+
 
 
 
